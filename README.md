@@ -1,2 +1,2 @@
 # ProMax
- https://sergei363.github.io/ProMax/.
+promaxappliance.com
