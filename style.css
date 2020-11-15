@@ -1,0 +1,19 @@
+body {
+  background-color:lightblue;
+}
+
+h1{
+  font-size:70px;
+  text-align: center;
+}
+
+h2{
+  font-size:30px;
+    text-align:right
+}
+body {
+  background-image: url("https://www.caesarsapplianceservice.com/wp-content/uploads/2018/04/maytag-refrigerators.png");
+  background-repeat: no-repeat;
+   background-position:center;
+  background-attachment: fixed;
+}
